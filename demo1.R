@@ -1,0 +1,10 @@
+5+6
+print("Hello")
+7+8
+var.man<-7
+print(var.man)
+var1<-10
+var2<-20
+var3<-30
+cat(var1,"\t",var2,"\n",var3)
+class(var1)
